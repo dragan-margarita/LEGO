@@ -182,6 +182,7 @@ footer{
 .logo{
 	display: flex;
 	height: 90px;
+	max-width: 240px;
 }
 .logo-small{
 	height: 30px;	

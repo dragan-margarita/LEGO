@@ -1401,8 +1401,8 @@ a.slide_btn {
   display: block;
 }
 @media (max-width: 800px){
-	/*.up-show{display: none;}
-}*/
+	.up-show{display: none;}
+}
 .up svg{
 	width: 36px;
 	height: 36px;
